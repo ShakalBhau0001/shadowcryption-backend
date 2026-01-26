@@ -1,12 +1,13 @@
-# shadowcryption-backend
+# ShadowCryption-Back
 
 ## Folder Structure
 
 ```bash
-shadowcryption-backend/
+ShadowCryption-Back/
 │
 ├── __init__.py
 ├── requirements.txt
+├── README.md
 └── backend/
     ├── main.py
     ├── core/
